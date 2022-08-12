@@ -1,4 +1,9 @@
-### Salve, eu sou Pedro Castro!
+### Ola, meu nome Pedro Castro!
+<br><br>
+   <p align="center"> <samp>
+   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=👋+Hi+there!+I'm+a+Developer&center=true&title_color=79c0ff"></a>
+  </samp>
+  <p align="center"><a href="./README.pt-br.md">In Portuguese ➤</a></p>
 <div align="center">
   <a href="https://github.com/pedrocastrovs">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedrocastrovs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
